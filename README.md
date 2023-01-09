@@ -1,4 +1,4 @@
-# Roblox Autoload Script Template
+# Autoload Script Template
 
 Main.lua will find and execute scripts inside scripts folder.
 
